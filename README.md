@@ -18,9 +18,9 @@ npm run build
 ```
 
 ## 不同屏幕尺寸显示
-手机端111   
-![avatar](/public/img/phone.png)   
+手机端   
+![avatar](./public/img/phone.png)   
 平板端   
-![avatar](/public/img/tablet.png)     
+![avatar](./public/img/tablet.png)     
 浏览器端   
-![avatar](/public/img/browser.png)   
+![avatar](./public/img/browser.png)   
