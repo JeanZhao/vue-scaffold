@@ -1,0 +1,21 @@
+{
+    "root": true,
+    "env": {
+        "node": true
+    },
+    "extends": [
+        "plugin:vue/essential",
+        "eslint:recommended"
+    ],
+    "parserOptions": {
+        "parser": "babel-eslint"
+    },
+    "rules": {
+        "no-unused-vars": "off",
+        "vue/no-unused-vars": "off",
+        "vue/no-use-v-if-with-v-for": "off",
+        "no-useless-escape": "off",
+        "no-undef": "off",
+        "no-unreachable": "off"
+    }
+}
