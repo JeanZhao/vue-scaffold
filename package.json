@@ -1,7 +1,6 @@
 {
-  "name": "minitable-checkin-app",
+  "name": "vue-fetch-rem-scaffold",
   "version": "1.0.0",
-  "private": true,
   "description": "vue app",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -63,10 +62,17 @@
   "alias": {
     "vue": "./node_modules/vue/dist/vue.js"
   },
+  "author": "Jean Zhao",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "vuex",
+    "rem",
+    "scaffold",
+  ]
   "husky": {
     "hooks": {
       "pre-commit": "npm run format"
     }
   },
-  "readme": "ERROR: No README data found!"
 }
