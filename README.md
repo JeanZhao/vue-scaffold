@@ -18,9 +18,9 @@ npm run build
 ```
 
 ## 不同屏幕尺寸显示
-手机端
+手机端   
 ![avatar](https://github.com/JeanZhao/imgRepo/blob/main/vue-scaffold/phone.png)   
-平板端   
+平板端      
 ![avatar](https://github.com/JeanZhao/imgRepo/blob/main/vue-scaffold/tablet.png)     
 浏览器端   
 ![avatar](https://github.com/JeanZhao/imgRepo/blob/main/vue-scaffold/browser.png)   
