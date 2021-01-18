@@ -10,7 +10,7 @@
 # install dependencies  
 npm install
 
-# serve with hot reload at http://localhost:1235/dist/  
+# serve with hot reload at http://localhost:1234/dist/  
 npm run dev
 
 # build for production with minification  
@@ -18,7 +18,7 @@ npm run build
 ```
 
 ## 不同屏幕尺寸显示
-手机端   
+手机端
 ![avatar](https://github.com/JeanZhao/imgRepo/blob/main/vue-scaffold/phone.png)   
 平板端   
 ![avatar](https://github.com/JeanZhao/imgRepo/blob/main/vue-scaffold/tablet.png)     
