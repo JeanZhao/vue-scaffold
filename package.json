@@ -58,7 +58,6 @@
     "> 1%",
     "last 2 versions"
   ],
-  "_id": "minitable-checkin-app@1.0.0",
   "alias": {
     "vue": "./node_modules/vue/dist/vue.js"
   },
